@@ -22,7 +22,7 @@ public class JA0831_14 {
 		int i = 1;
 		int j = 1;
 		i = i + j; // i=2
-		i += j;
+		i += j; //위와 같은 연산
 
 	}
 
